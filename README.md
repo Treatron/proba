@@ -1,2 +1,2 @@
 # proba
-Repo for sutdying
+Repo for studying
